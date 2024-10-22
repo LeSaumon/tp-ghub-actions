@@ -1,0 +1,11 @@
+{
+  "name": "tp-ghub-action",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node src/sum.test.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
